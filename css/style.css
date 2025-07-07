@@ -390,6 +390,7 @@ scroll-padding: 100px;
  padding: 70px 40px 1px;
   text-align: center;
    background-color: #f0ceb4;
+  padding-bottom: 40px;
   
 }
 
@@ -597,7 +598,7 @@ footer {
   font-size: 1rem;
   padding: 1.5rem 0;
   text-align: center;
-  margin-top: 0;
+  margin-top: 2rem;
   border-top: 1px solid #c69c85;
   font-family: 'Poppins', sans-serif;
 }
