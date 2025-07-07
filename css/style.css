@@ -14,7 +14,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color:#fedbc0;
+  background-color: #f0ceb4;
   color: #333;
   min-height: 3000px;
   margin: 0;
@@ -375,6 +375,7 @@ scroll-padding: 100px;
   display: flex;
   margin-top: 2rem;
   flex-wrap: wrap;
+ 
 }
 
 .contact .row .map {
@@ -386,10 +387,10 @@ scroll-padding: 100px;
 
 
 .Contact-section {
-  padding: 80px 20px;
+ padding: 70px 40px 1px;
   text-align: center;
    background-color: #f0ceb4;
-   
+  
 }
 
 .Contact-section h2 {
@@ -589,6 +590,23 @@ scroll-padding: 100px;
   line-height: 1.6;
   color: #444;
 }
+
+footer {
+  background: color #d8ad8c; 
+  color: #111; 
+  font-size: 1rem;
+  padding: 1rem 0;
+  margin-top: 0;
+  text-align: center;
+  
+  
+}
+
+footer small {
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 0.5px;
+}
+
 
 
 
